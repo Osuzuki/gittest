@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="uoUMdYhLC0aRoHSxSz087w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" FilePath="C:\Users\gotoj\Documents\UiPath\rpatrainingapp.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAKoSURBVFhH7dhbT1NBEMDxPtn7Fb6kAqK2cmgVW0TEO6JJP0A/gvFRUUupoiIKIgpWnyUmvPdlnJ2ze7pbZz1mDaQmZ5N/qiEZfpnhBWLRi170Ql5tplKf9SpHVa8Co5awxbgvnHSdTof9FIsbCeCfImC/3x/JIuC/xgJbrRY0m80g8X/960vdnzD+8DuMP/hGja1g93tUafkrlO4dyPahdHcfine+QAkr3v4Mi+0fxqyw7+W0QQKt9GAcG0PQ2LICYQiiCOSjirdEe1C8uQeFG5/YmbbcgISSmyIQfgZbwjSQQlFLu1C4vsvOtMUCw9YewP4a9RHyosUdyF/bMWYdy4n90w1QBUJpIJVEFSQsv7ANuasf2Jm23IDapoqEGmxKnFBtSpSTKGr+PcXNtMUCw9ZubEqdLkBtB5sKUI0tKiuqbxmzjuXEv6EWRBI0jEJQrv4OslewuU383GRn2nICqp+nACVPp2BZBaIQhbDM5beQxTKX3rAzbbHAsLUbKLmpHG5KBxFqzgeJ0rXXkMHS1Q1jVlhOG1SnEyD/fArkb0pHUYhKz2LeK0h5L9mZtpyA+pay2pYyNdEwaoNQqRlRF1IXu+xMWyww7MT6ltSmMlVzU+khVKqyTiXL68assJw2KDY1fDp1PkIJkEQlCdWB5AXRGiTPr7EzbTkBCaVgtCUTlcIt+SgEyRLn2n7TbXamLRYYdmL/dBJV0TalbUmkoxLTLyBx9jnEp54Zs8Jy2uDg58k8XSJAIYZAAxQ1uQrxiVV2pi0nIIsSICyOIA516sxTv9NP2Jm23IA6Sm4pQE1iCKI0lB4305YTcP5xjzYVn0LYMGqCR6kajw7YmbacgCfZ/wGc9cpHh4fmb1ujkDAR0PPKDfGPUUssTtjk37iiF73o8S8W+wWSe/OjJhjKtAAAAABJRU5ErkJggg==" Selector="&lt;wnd app='rpatrainingapp.exe' cls='HwndWrapper*' title='RPAトレーニングアプリ' /&gt;" Title="RPAトレーニングアプリ">
+      <imageRef attrName="InformativeScreenshot" originalValue="377af3d98c12ed3d4d043a0208cd445b.png" xmlns="">0CVIP4VkTtkmxltCEwybZRQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "RPAトレーニングアプリ",
+  "Type": "Screen",
+  "Id": "uVWrrw9SeUCVDNWjb29l4Q",
+  "Reference": "w5K6ofLr00uWMgOm_a3P1w/uVWrrw9SeUCVDNWjb29l4Q",
+  "ParentRef": "w5K6ofLr00uWMgOm_a3P1w/zzZu3ujeCEiZpea91U9xcw",
+  "Created": "2023-10-04T09:20:57.3212838Z",
+  "Updated": "2023-10-04T09:20:57.3212838Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

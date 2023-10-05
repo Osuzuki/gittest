@@ -1,0 +1,11 @@
+﻿{
+  "Name": "RPAトレーニングアプリ app",
+  "Type": "App",
+  "Id": "8RkTyzIY_kGMZVhg-sOEsg",
+  "Reference": "w5K6ofLr00uWMgOm_a3P1w/8RkTyzIY_kGMZVhg-sOEsg",
+  "Created": "2023-10-04T09:20:57.2684158Z",
+  "Updated": "2023-10-04T09:20:57.2684158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
